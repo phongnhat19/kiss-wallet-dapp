@@ -3,12 +3,18 @@
     "name": "Pancake Swap",
     "url": "https://pancakeswap.finance/",
     "banner": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/banner/pancakeswap.png",
-    "logo": ""
+    "logo": "",
+    "recommended": true,
+    "popular": false,
+    "category": ["NFT", "AMM", "Farming", "IFO", "Prediction"]
   },
   {
     "name": "UniSwap",
     "url": "https://uniswap.org/",
     "banner": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/banner/uniswap.png",
-    "logo": ""
+    "logo": "",
+    "recommended": true,
+    "popular": true,
+    "category": ["AMM", "Farming"]
   }
 ]
