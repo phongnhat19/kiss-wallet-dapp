@@ -6,7 +6,8 @@
     "logo": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/logo/pancake.png",
     "recommended": true,
     "popular": false,
-    "category": ["NFT", "AMM", "Farming", "IFO", "Prediction"]
+    "category": ["NFT", "AMM", "Farming", "IFO", "Prediction"],
+    "chain": ["BSC"]
   },
   {
     "name": "UniSwap",
@@ -15,6 +16,7 @@
     "logo": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/logo/uniswap.png",
     "recommended": true,
     "popular": true,
-    "category": ["AMM", "Farming"]
+    "category": ["AMM", "Farming"],
+    "chain": ["Ethereum"]
   }
 ]
