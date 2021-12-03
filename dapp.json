@@ -3,7 +3,7 @@
     "name": "Pancake Swap",
     "url": "https://pancakeswap.finance/",
     "banner": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/banner/pancakeswap.png",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/logo/pancake.png",
     "recommended": true,
     "popular": false,
     "category": ["NFT", "AMM", "Farming", "IFO", "Prediction"]
@@ -12,7 +12,7 @@
     "name": "UniSwap",
     "url": "https://uniswap.org/",
     "banner": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/banner/uniswap.png",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/logo/uniswap.png",
     "recommended": true,
     "popular": true,
     "category": ["AMM", "Farming"]
