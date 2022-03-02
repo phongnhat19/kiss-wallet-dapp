@@ -18,5 +18,45 @@
     "popular": true,
     "category": ["AMM", "Farming"],
     "chain": ["Ethereum"]
+  },
+  {
+    "name": "BecoSwap",
+    "url": "http://becoswap.com/",
+    "banner": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/banner/becoswap.png",
+    "logo": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/logo/becoswap.png",
+    "recommended": true,
+    "popular": true,
+    "category": ["AMM", "Farming"],
+    "chain": ["Kardiachain"]
+  },
+  {
+    "name": "KAI Dex",
+    "url": "https://kaidex.io/",
+    "banner": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/banner/kaidex.png",
+    "logo": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/logo/becoswap.png",
+    "recommended": true,
+    "popular": true,
+    "category": ["AMM", "Farming"],
+    "chain": ["Kardiachain"]
+  },
+  {
+    "name": "Beefy Finance",
+    "url": "https://app.beefy.finance/#/bsc",
+    "banner": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/banner/beefy.png",
+    "logo": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/logo/beefy.png",
+    "recommended": true,
+    "popular": true,
+    "category": ["Yield Optimizer", "Farming"],
+    "chain": ["BSC"]
+  },
+  {
+    "name": "SleepEarn Finance",
+    "url": "https://sleepearn.finance/",
+    "banner": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/banner/sleepearn.png",
+    "logo": "https://raw.githubusercontent.com/phongnhat19/kiss-wallet-dapp/master/logo/sleepearn.png",
+    "recommended": true,
+    "popular": true,
+    "category": ["Yield Optimizer", "Farming"],
+    "chain": ["Kardiachain"]
   }
 ]
