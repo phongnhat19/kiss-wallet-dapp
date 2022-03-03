@@ -7,7 +7,7 @@
     "recommended": true,
     "popular": false,
     "category": ["NFT", "AMM", "Farming", "IFO", "Prediction"],
-    "chain": ["Binance Smart Chain"]
+    "chain": ["BSC"]
   },
   {
     "name": "UniSwap",
@@ -17,7 +17,7 @@
     "recommended": true,
     "popular": true,
     "category": ["AMM", "Farming"],
-    "chain": ["Ethereum"]
+    "chain": ["ETHEREUM"]
   },
   {
     "name": "BecoSwap",
@@ -27,7 +27,7 @@
     "recommended": true,
     "popular": true,
     "category": ["AMM", "Farming"],
-    "chain": ["Kardiachain"]
+    "chain": ["KARDIA"]
   },
   {
     "name": "KAI Dex",
@@ -37,7 +37,7 @@
     "recommended": true,
     "popular": true,
     "category": ["AMM", "Farming"],
-    "chain": ["Kardiachain"]
+    "chain": ["KARDIA"]
   },
   {
     "name": "Beefy Finance",
@@ -47,7 +47,7 @@
     "recommended": true,
     "popular": true,
     "category": ["Yield Optimizer", "Farming"],
-    "chain": ["Binance Smart Chain"]
+    "chain": ["BSC"]
   },
   {
     "name": "SleepEarn Finance",
@@ -57,6 +57,6 @@
     "recommended": true,
     "popular": true,
     "category": ["Yield Optimizer", "Farming"],
-    "chain": ["Kardiachain"]
+    "chain": ["KARDIA"]
   }
 ]
