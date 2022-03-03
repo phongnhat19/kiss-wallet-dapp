@@ -7,7 +7,7 @@
     "recommended": true,
     "popular": false,
     "category": ["NFT", "AMM", "Farming", "IFO", "Prediction"],
-    "chain": ["BSC"]
+    "chain": ["Binance Smart Chain"]
   },
   {
     "name": "UniSwap",
@@ -47,7 +47,7 @@
     "recommended": true,
     "popular": true,
     "category": ["Yield Optimizer", "Farming"],
-    "chain": ["BSC"]
+    "chain": ["Binance Smart Chain"]
   },
   {
     "name": "SleepEarn Finance",
